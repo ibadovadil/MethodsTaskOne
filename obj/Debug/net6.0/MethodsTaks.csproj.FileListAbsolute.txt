@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\MethodsTaks\bin\Debug\net6.0\MethodsTaks.exe
+C:\Users\Adil\Desktop\MethodsTaks\bin\Debug\net6.0\MethodsTaks.deps.json
+C:\Users\Adil\Desktop\MethodsTaks\bin\Debug\net6.0\MethodsTaks.runtimeconfig.json
+C:\Users\Adil\Desktop\MethodsTaks\bin\Debug\net6.0\MethodsTaks.dll
+C:\Users\Adil\Desktop\MethodsTaks\bin\Debug\net6.0\MethodsTaks.pdb
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.AssemblyInfo.cs
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.dll
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\refint\MethodsTaks.dll
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.pdb
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\MethodsTaks.genruntimeconfig.cache
+C:\Users\Adil\Desktop\MethodsTaks\obj\Debug\net6.0\ref\MethodsTaks.dll
